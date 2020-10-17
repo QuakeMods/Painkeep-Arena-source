@@ -1,0 +1,16 @@
+--------------------Configuration: game - Win32 Debug TA--------------------
+Begining build with project "C:\quake3\source\code\game\game.dsp", with item "g_trigger.c"
+Active configuration is Win32 (x86) Dynamic-Link Library (based on Win32 (x86) Dynamic-Link Library)
+
+
+Creating temp file "C:\DOCUME~1\brights\LOCALS~1\Temp\RSP63.tmp" with contents </nologo /G5 /MTd /W3 /GX /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "BUILDING_REF_GL" /D "DEBUG" /D "QAGAME" /FR"Debug_TA/" /Fp"Debug_TA/game.pch" /YX /Fo"Debug_TA/" /Fd"Debug_TA/" /FD /ZI /c 
+"C:\quake3\source\code\game\g_trigger.c"
+>
+Creating command line "cl.exe @C:\DOCUME~1\brights\LOCALS~1\Temp\RSP63.tmp" 
+Compiling...
+Command line warning D4002 : ignoring unknown option '/ZI'
+g_trigger.c
+
+
+
+g_trigger.obj - 0 error(s), 1 warning(s)

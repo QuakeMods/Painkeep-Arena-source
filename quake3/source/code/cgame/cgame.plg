@@ -1,0 +1,16 @@
+--------------------Configuration: cgame - Win32 Debug TA--------------------
+Begining build with project "C:\quake3\source\code\cgame\cgame.dsp", with item "cg_servercmds.c"
+Active configuration is Win32 (x86) Dynamic-Link Library (based on Win32 (x86) Dynamic-Link Library)
+
+
+Creating temp file "C:\DOCUME~1\brights\LOCALS~1\Temp\RSP81.tmp" with contents </nologo /G5 /MTd /W3 /GX /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /FR"Debug_TA/" /Fp"Debug_TA/cgame.pch" /YX /Fo"Debug_TA/" /Fd"Debug_TA/" /FD /ZI /c 
+"C:\quake3\source\code\cgame\cg_servercmds.c"
+>
+Creating command line "cl.exe @C:\DOCUME~1\brights\LOCALS~1\Temp\RSP81.tmp" 
+Compiling...
+Command line warning D4002 : ignoring unknown option '/ZI'
+cg_servercmds.c
+
+
+
+cg_servercmds.obj - 0 error(s), 1 warning(s)
